@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Gadget Shop - eCommerce Web Application 🛒
+[Live Demo 🔗](https://gadget-shop-psi.vercel.app)
 
-## Getting Started
+Gadget Shop is a full-stack eCommerce platform built with Next.js, offering a seamless and responsive shopping experience. It includes a user-friendly storefront, a seller dashboard, and secure authentication. Users can browse products, manage orders, and purchase via Cash on Delivery (COD).
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+ ### Features 🚀  
+✅ User Authentication – Secure login and registration powered by Clerk.
+✅ Payment Integration – Supports Cash on Delivery (COD) for hassle-free transactions.
+✅ Image Upload – Uses Cloudinary for optimized image storage.
+✅ Fully Responsive – Designed with Tailwind CSS for an adaptive UI across all devices.
+✅ Seller Dashboard – Allows sellers to add, manage, and track products & orders.
+✅ Background Processing – Uses Inngest for handling async tasks efficiently.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Tech Stack 🛠  
+🔹 Frontend – Next.js, Tailwind CSS, Axios, React Hot Toast, React Icons
+🔹 Backend – Node.js, Mongoose (MongoDB), Clerk
+🔹 Storage & APIs – Cloudinary (Image Storage), Inngest (Background Jobs)
+🔹 Deployment – Vercel for seamless hosting
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+ Live Demo 🚀
+[Preview Live Project](https://gadget-shop-psi.vercel.app)
